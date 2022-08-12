@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloApp": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\LTI\\Git-1045\\AppJenkins"
+    }
+  }
+}
